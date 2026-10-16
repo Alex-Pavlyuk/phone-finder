@@ -1,0 +1,8 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+PhoneFinder.app/
+.DS_Store

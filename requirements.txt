@@ -1,0 +1,5 @@
+curl_cffi>=0.7.0
+PyYAML>=6.0
+
+# Приложение в строке меню (PhoneFinder.app). Для CLI не требуется.
+rumps>=0.4.0; sys_platform == 'darwin'
